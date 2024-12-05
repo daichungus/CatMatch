@@ -1,6 +1,7 @@
 # Cat Match
 Group A ENGR 1181.01 Autumn 2024 SDP game made in MATLAB.
 Version November 22 2024
+![image info](./optional/game_logo_big.png)
 ## Setup
 1. You must first have MATLAB already installed. Currently not confirmed to work with Octave
 2. Download and ensure all files are in the same folder
