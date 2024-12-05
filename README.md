@@ -5,6 +5,14 @@ Version November 22 2024
 1. You must first have MATLAB already installed. Currently not confirmed to work with Octave.
 2. Download all files to the same folder
 3. Open and/or run **map_generation.m**
+## Story
+The evil white dogs have taken all the dabloons! You, the Black Cat, must fight the white dogs by beating each of them in a series of **memory matching games**.
+
+Defeat all the white dogs to win!
+## Gameplay
+Travel around the world and find the white dogs. Go next to them and interact with them. 
+You must correctly match more cards (get a higher score) than the enemy in order to win the battle.
+If you lose or get tied, you will lose a life. You start out with two lives. Once you have zero lives, the game ends.
 ## Controls
 ### Startup
 - q to quit
