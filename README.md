@@ -4,7 +4,7 @@ Version November 22 2024
 ## Setup
 1. You must first have MATLAB already installed. Currently not confirmed to work with Octave
 2. Download and ensure all files are in the same folder
-3. Open and/or run `**map_generation.m**`
+3. Open and/or run **`map_generation.m`**
 ## Story
 The evil white dogs have taken all the dabloons! You, the Black Cat, must fight the white dogs by beating each of them in a series of **memory matching games**.
 
