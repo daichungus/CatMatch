@@ -10,10 +10,13 @@ The evil white dogs have taken all the dabloons! You, the Black Cat, must fight 
 
 Defeat all the white dogs to win!
 ## Gameplay
-Travel around the world and find the white dogs. Go next to them and interact with them. 
+Travel around the world and find the white dogs. Go next to them and interact with them. You will have to engage in card warfare with them.
+During your turn, you must chose two *matching*, *unflipped* cards in order to increase your score.
+The enemy will take its turn after yours.
 You must correctly match more cards (get a higher score) than the enemy in order to win the battle.
 If you lose or get tied, you will lose a life. You start out with two lives. Once you have zero lives, the game ends.
 ## Controls
+**NOTE: DO NOT DIRECTLY CLOSE THE WINDOW AT ANY GIVEN TIME**
 ### Startup
 - `q` to quit the game
 - `p` to play the game
@@ -22,8 +25,9 @@ If you lose or get tied, you will lose a life. You start out with two lives. Onc
 - `t` to interact with NPC if standing directly next to them
 - `q` to quit
 ### Card game controls
-- Use mouse to choose a card to flip
-- `ESC` key to forfeit the game
+- Move the mouse to move the cursor
+- Click the left or right mouse button to choose one card
+- `ESC` key to forfeit the game **during your turn**
 # Credits
 ## Staff
 - Connor Levak: Story, writing, movement mechanics, map graphics
