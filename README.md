@@ -31,11 +31,11 @@ Defeat all the white dogs to win!
 - `ESC` key to forfeit the game **during your turn**
 # Credits
 ## Staff
-- Connor Levak: Story, writing, movement mechanics, map graphics
-- David Y. Liu: Card game mechanics, logic programming
-- Morgan M. Hallett: Spritework and sprite design
-- Saumil Srivastava: CPU player/enemy logic programming
-- Matthew M. VanEtten: Title screen programming, map graphics
+- `Connor Levak`: Story, writing, movement mechanics, map graphics
+- `David Y. Liu`: Card game mechanics, logic programming
+- `Morgan M. Hallett`: Spritework and sprite design
+- `Saumil Srivastava`: CPU player/enemy logic programming
+- `Matthew M. VanEtten`: Title screen programming, map graphics
 ## Special Thanks
 - Dr. Shukufe Rahman
 - All UTAs of ENGR 1181.01 Section (6421)
