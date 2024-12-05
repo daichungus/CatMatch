@@ -1,7 +1,7 @@
 # Cat Match
 Ohio State University ENGR 1181.01 Autumn 2024 SDP entry made by Group A in MATLAB
 
-Winning entry of the ENGR 1181 Category of the Autumn 2024 Fundamentals of Engineering Design Showcase hosted by the Dpeartment of Engineering Education
+Winning entry of the ENGR 1181 Category of the Autumn 2024 Fundamentals of Engineering Design Showcase hosted by the Department of Engineering Education
 
 Version November 22 2024
 
