@@ -2,9 +2,9 @@
 Group A ENGR 1181.01 Autumn 2024 SDP game made in MATLAB.
 Version November 22 2024
 ## Setup
-1. You must first have MATLAB already installed. Currently not confirmed to work with Octave.
-2. Download all files to the same folder
-3. Open and/or run **map_generation.m**
+1. You must first have MATLAB already installed. Currently not confirmed to work with Octave
+2. Download and ensure all files are in the same folder
+3. Open and/or run `**map_generation.m**`
 ## Story
 The evil white dogs have taken all the dabloons! You, the Black Cat, must fight the white dogs by beating each of them in a series of **memory matching games**.
 
@@ -15,15 +15,15 @@ You must correctly match more cards (get a higher score) than the enemy in order
 If you lose or get tied, you will lose a life. You start out with two lives. Once you have zero lives, the game ends.
 ## Controls
 ### Startup
-- q to quit
-- p to play
+- `q` to quit the game
+- `p` to play the game
 ### Main controls
 - Arrow keys to move
-- t to interact with NPC if standing directly next to them
-- q to quit
+- `t` to interact with NPC if standing directly next to them
+- `q` to quit
 ### Card game controls
 - Use mouse to choose a card to flip
-- ESC key to forfeit the game
+- `ESC` key to forfeit the game
 # Credits
 ## Staff
 - Connor Levak: Story, writing, movement mechanics, map graphics
