@@ -1,11 +1,9 @@
 # Cat Match
 Group A ENGR 1181.01 Autumn 2024 SDP game made in MATLAB. 
-
 ## Setup
 1. You must first have MATLAB already installed. Currently not confirmed to work with Octave.
 2. Download all files to the same folder
 3. Open and/or run **map_generation.m**
-
 ## Controls
 ### Startup
 - q to quit
@@ -17,19 +15,19 @@ Group A ENGR 1181.01 Autumn 2024 SDP game made in MATLAB.
 ### Card game controls
 - Use mouse to choose a card to flip
 - ESC key to forfeit the game
-
-## Credits
-### Staff
+# Credits
+## Staff
 - Connor Levak: Story, writing, movement mechanics, map graphics
 - David Y. Liu: Card game mechanics, logic programming
 - Morgan M. Hallett: Spritework and sprite design
 - Saumil Srivastava: CPU player/enemy logic programming
 - Matthew M. VanEtten: Title screen programming, map graphics
-### Special Thanks
+## Special Thanks
 - Dr. Shukufe Rahman
 - All UTAs of ENGR 1181.01 Section (6421)
 - The UTA who helped us during Open Lab meetings
 - All the test players
+- Autumn 2024 Fundamentals of Engineering Design Showcase staff and judges
 - and you...
 ## LICENSE FOR SIMPLE GAME ENGINE
 Original game documentation: copyright (c) 2014, Kathleen Ossman and Gregory Bucks.
