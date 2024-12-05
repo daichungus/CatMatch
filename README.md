@@ -11,9 +11,9 @@ Version November 22 2024
 2. Download and ensure all files are in the same folder
 3. Open and/or run **`map_generation.m`**
 ## Story
-The evil white dogs have taken all the dabloons! You, the Black Cat, must fight the white dogs by beating each of them in a series of **memory matching games**.
+The sly grey dogs have taken all the dabloons! You, the heroic black cat, must fight the sly grey dogs by beating each of them in a series of **memory matching games**.
 
-Defeat all the white dogs to win!
+Defeat all the sly grey dogs to win!
 ## Gameplay
 - Travel around the world and find the white dogs. Go next to them and interact with them. You will have to engage in card warfare with them.
 - During your turn, you must chose two *matching*, *unflipped* cards in order to increase your score.
