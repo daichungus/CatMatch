@@ -15,7 +15,7 @@ The sly grey dogs have taken all the dabloons! You, the heroic black cat, must f
 
 Defeat all the sly grey dogs to win!
 ## Gameplay
-- Travel around the world and find the white dogs. Go next to them and interact with them. You will have to engage in card warfare with them.
+- Travel around the world and find the grey dogs. Go next to them and interact with them. You will have to engage in card warfare with them.
 - During your turn, you must chose two *matching*, *unflipped* cards in order to increase your score.
 - The enemy will always take its turn after yours.
 - You must correctly match more cards (get a higher score) than the enemy in order to win the battle.
